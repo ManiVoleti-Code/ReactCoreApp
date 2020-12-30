@@ -14,5 +14,4 @@
     <ProjectReference Include="..\AppBusiness\AppBusiness.csproj" />
     <ProjectReference Include="..\AppDomain\AppDomain.csproj" />
   </ItemGroup>
-
 </Project>
